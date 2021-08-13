@@ -2,9 +2,9 @@
 
 # Append
 
-The Append program is a simple javascript example to take in as a parameter a file path & name from the command line.   The user provided filename is then used to add "Hello World" to a new line at the end of the file.  The data is then saved back out to the file.
+The Append program utilizes javascript to ingest the file path & name as a parameter from the command line.   The user provided filename is then used to add "Hello World" to a new line at the end of the file.  The data is then saved back out to the file.
 
-The program currently checks that a user provided a filename as input otherwise it notifies the user that a file path/name is missing.  Upon successful addition/saving of "Hello World" to the file, the program notifies the user that the update was successful.
+The program currently checks that a user provided a filename as input, otherwise it notifies the user that a file path/name is missing.  Upon successful addition/saving of "Hello World" to the file, the program notifies the user that the update was successful.
 
 ## Installation
 
